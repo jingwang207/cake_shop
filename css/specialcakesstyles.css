@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	font-size: 1em;
+	line-height: 1.3em;
+}
+/* classes */
+.burntred {
+	color: #E94D40;
+}
+.navyblue {
+	color: #0C243C;
+}
+.specialcakesfont {
+	font-family: Arial, sans-serif;
+}
+.floatleft {
+    float: left;
+}
+.floatright {
+    float: right;
+}
+.clearboth {
+    clear: both;
+}
+.container {
+    width: 1200px;
+    margin: auto;
+    padding: 0 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.logo{
+    display: block;
+    width: 298px;
+    height: 71px;
+    
+}
+.logo img{
+    display: inline-block;
+    text-align: left;
+}
+
+nav {
+    display: block;
+    margin-top: -45px;
+    width: 1200px;
+    /* background-color: aqua; */
+}
+
+nav ul {
+    text-align: right;
+    margin-bottom: 3px;
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #0C243C;
+}
+footer{
+    margin-top: 20px;
+    text-align: center;
+    width: 1200px;
+    height: 100px;
+    line-height: 100px;
+    background-color: rgb(59, 59, 59);
+    color: white;
+}

@@ -1,0 +1,30 @@
+
+.hotproduct{
+    margin: 0;
+    text-align: center;
+    width: 1200px;
+    height: 750px;
+}
+.hotproduct img{
+    width: 975px;
+    height: 750px; 
+}
+.job{
+    border-collapse: collapse;
+    width: 600px;
+    height: 200px;
+}
+.job th{
+    background-color: #3d4950;
+    color: #fff;
+}
+.job>tr,th,td{
+    padding: 15px;
+    text-align: left;
+    border-collapse: collapse;
+    border: 1px solid navy
+}
+.job tr:last-child{
+    background-color: #d1ecfb;
+
+}

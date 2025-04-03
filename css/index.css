@@ -1,0 +1,14 @@
+
+.hotproduct{
+    margin: 0;
+    text-align: center;
+    width: 1200px;
+    height: 750px;
+}
+.hotproduct img{
+    width: 975px;
+    height: 750px; 
+}
+.info h3,p{
+    margin-left: 140px;
+}
