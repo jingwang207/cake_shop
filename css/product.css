@@ -58,9 +58,12 @@ text-align: center;
     display: inline-block;
     width: 120px;
 }
+.orderForm textarea{
+    width: 170px;
+}
 
 .orderForm button{
-    margin-left: 240px;
-    width: 50px;
+    margin-left: 200px;
+    width: 100px;
     height: 30px;
 }
